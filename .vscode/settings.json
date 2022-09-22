@@ -1,0 +1,10 @@
+{
+    "material-icon-theme.folders.associations": {
+        "__mocks__": "Mock",
+        "_assets_": "Resource",
+        "_config_": "Config",
+        "_environments_": "Environment",
+        "_translate": "I18n",
+        "components": "React-components"
+    }
+}
