@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "pkief.material-icon-theme",
+        "zixuanchen.vitest-explorer",
+        "editorconfig.editorconfig",
+        "styled-components.vscode-styled-components"
+    ]
+}
