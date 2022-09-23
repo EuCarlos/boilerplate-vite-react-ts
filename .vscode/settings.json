@@ -6,5 +6,9 @@
         "_environments_": "Environment",
         "_translate": "I18n",
         "components": "React-components"
-    }
+    },
+		"material-icon-theme.files.associations": {
+			"test.tsx": "Test-ts",
+			".keep": "Todo"
+		}
 }
