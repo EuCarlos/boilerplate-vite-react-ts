@@ -1,4 +1,10 @@
 {
+    "emmet.syntaxProfiles": {
+        "javascript" : "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
     "material-icon-theme.folders.associations": {
         "__mocks__": "Mock",
         "_assets_": "Resource",
@@ -7,8 +13,8 @@
         "_translate": "I18n",
         "components": "React-components"
     },
-		"material-icon-theme.files.associations": {
-			"test.tsx": "Test-ts",
-			".keep": "Todo"
-		}
+    "material-icon-theme.files.associations": {
+        "test.tsx": "Test-ts",
+        ".keep": "Todo"
+    }
 }
